@@ -11,7 +11,7 @@
 ## How to Contribute?
 1. **Star :star: this repository.**
 2. **Add Your Content**:
-   - Create a new file using the provided [TEMPLATE]() and submit your proses or poetry.
+   - Create a new file using the provided [TEMPLATE](https://github.com/ASHISH-28-02/P_._P/blob/main/TEMPLATE.md) and submit your proses or poetry.
 3. **Submit a Pull Request**:
    - Once you've written your content, submit a pull request. We will review it and, if approved, it will be added to the repository.
   
