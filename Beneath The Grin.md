@@ -2,7 +2,7 @@
 
 ### WRITER: LEO DAS
 
-<img align="centre" alt="Author Photo" height="300" width="200" src="Link_to_your_Photo">
+<img align="centre" alt="Author Photo" height="300" width="200" src="https://github.com/ASHISH-28-02/P_._P/blob/ASHISH-28-02-PP-1/IMAGES/LEO.jpg">
 
 ---
 
@@ -26,4 +26,4 @@ In a world where emotions can remain unbroken.
 #### INSPIRATIONS : 
 LEO 
 
-Connect with me on GitHub: [Your GitHub Profile](https://github.com/ASHISH-28-02)
+Connect with me on GitHub: [ASHISH-28-02](https://github.com/ASHISH-28-02)
