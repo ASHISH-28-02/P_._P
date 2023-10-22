@@ -2,7 +2,7 @@
 
 ### WRITER: LEO DAS
 
-<img align="centre" alt="Author Photo" height="300" width="200" src="https://github.com/ASHISH-28-02/P_._P/blob/ASHISH-28-02-PP-1/IMAGES/LEO.jpg">
+<img align="centre" alt="Author Photo" height="300" width="200" src="https://github.com/ASHISH-28-02/P_._P/blob/main/IMAGES/LEO.jpg">
 
 ---
 
